@@ -17,4 +17,4 @@ jobs:
 
     - name: Download data from S3 
       run: |
-        wget $ {{ github.event.inputs.s3_url }}
+        wget ${{ github.event.inputs.s3_url }}
