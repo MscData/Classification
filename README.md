@@ -3,7 +3,7 @@ keras_aws
 
 Image_classification
 
-[![download_data](https://github.com/MscData/Classification/actions/workflows/download_data.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/MscData/Classification/actions/workflows/download_data.yml)
+[![Upload to S3](https://github.com/MscData/Classification/actions/workflows/upload_s3.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/MscData/Classification/actions/workflows/upload_s3.yml)
 
 Project Organization
 ------------
